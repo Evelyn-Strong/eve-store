@@ -1,2 +1,4 @@
 # eve-store
-just for practise 测试hello-world
+* just for practise 
+* test hello-world
+* test pull request
